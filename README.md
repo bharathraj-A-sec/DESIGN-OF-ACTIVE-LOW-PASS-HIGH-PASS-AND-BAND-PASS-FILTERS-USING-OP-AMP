@@ -60,7 +60,7 @@ S2 + 1.414 s + 1
                  Let Ri = 10 KΩ, then Rf = 5.86 KΩ
 
 ## BAND PASS FILTER
-A band pass filter has a pass band between two cutoff frequencies fH and fL such that fH > fL.  Any input frequency outside this pass band is attenuated.  There are two types of band-pass filters.  Wide band pass and Narrow band pass filters.  We can define a filter as wide band pass if its quality factor Q <10.  If Q>10, then we call the filter a narrow band pass filter.  A wide band pass filter can be formed by simply cascading high-pass and low-pass sections.  The order of band pass filter depends on the order of high pass and low pass sections.
+A band pass filter has a pass band between two cutoff frequencies fH and fL such that fH > fL.  Any input frequency outside this pass band is attenuated.  There are two types of band-pass filters.  Wide band pass and Narrow band pass filters.  We can define a filter as wide band pass if its quality factor Q <10.  If Q>10, then we call the filter a narrow band pass filter.  A wide band pass filter can be formed by simply cascading high-pass and low-pass sections.  The order of band pass filter depends on the order of high pass and low pass sections
 
 ## CIRCUIT DIAGRAM:
 ## BANDPASS FILTER
